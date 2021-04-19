@@ -1,1 +1,2 @@
-Replace this with a link to your a GitHub or social media profile.
+[百度](http://www.baidu.com)
+[谷歌](http://www.google.com)
